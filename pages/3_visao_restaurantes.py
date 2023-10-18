@@ -8,6 +8,7 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 from streamlit_folium import folium_static
+from datetime import datetime
 
 st.set_page_config( page_title='Visão Restaurantes', page_icon='🍕', layout='wide' )
 
