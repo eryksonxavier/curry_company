@@ -8,6 +8,7 @@ import streamlit as st
 from PIL import Image
 import folium
 from streamlit_folium import folium_static
+from datetime import datetime
 
 st.set_page_config( page_title='Visão Empresa', page_icon='📈', layout='wide' )
 
